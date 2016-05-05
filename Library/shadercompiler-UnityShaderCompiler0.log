@@ -1,0 +1,599 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=1426 outsize=162 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1560 outsize=3109 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1560 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1428 outsize=164 ok=1
+Cmd: preprocess
+  insize=1428 outsize=164 ok=1
+Cmd: preprocess
+  insize=1419 outsize=155 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=1586 outsize=163 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1720 outsize=3565 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1720 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1584 outsize=161 ok=1
+Cmd: preprocess
+  insize=1584 outsize=161 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1720 outsize=3557 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1720 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1584 outsize=161 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1720 outsize=3541 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1720 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1584 outsize=160 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1720 outsize=3565 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1720 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=996 outsize=1277 ok=1
+Cmd: preprocess
+  insize=996 outsize=1277 ok=1
+Cmd: preprocess
+  insize=1097 outsize=336 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1058 outsize=3185 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1058 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1198 outsize=336 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (27): invalid subscript 'position_in_world_space'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1159 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1254 outsize=336 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1215 outsize=3421 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1215 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1256 outsize=335 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1217 outsize=3307 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1217 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=1994 outsize=478 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1056 outsize=3185 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1056 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1060 outsize=3185 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1060 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=2001 outsize=477 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (33): syntax error: unexpected token '/'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1063 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=2002 outsize=478 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1064 outsize=3071 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1064 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=2010 outsize=478 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1068 outsize=3071 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1068 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=994 outsize=1275 ok=1
+Cmd: preprocess
+  insize=810 outsize=429 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=678 outsize=3023 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=678 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=812 outsize=431 ok=1
+Cmd: preprocess
+  insize=810 outsize=429 ok=1
+Cmd: preprocess
+  insize=812 outsize=431 ok=1
+Cmd: preprocess
+  insize=810 outsize=429 ok=1
+Cmd: preprocess
+  insize=1001 outsize=1282 ok=1
+Cmd: preprocess
+  insize=1647 outsize=893 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=677 outsize=3023 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=677 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=679 outsize=3023 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=679 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1002 outsize=1283 ok=1
+Cmd: preprocess
+  insize=1542 outsize=455 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1384 outsize=3156 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1384 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1710 outsize=455 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1552 outsize=5612 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1552 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1710 outsize=455 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1552 outsize=3183 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1552 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1775 outsize=455 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1617 outsize=5612 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1617 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1268 outsize=312 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1255 outsize=6315 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1255 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1129 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (19): redefinition of 'vertexInput::vertex'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1187 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1129 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (22): syntax error: unexpected token ';'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1187 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1128 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (40): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1186 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1152 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (41): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1210 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1147 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (40): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1205 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (16): Can't find include file UnityGC.cginc
+  insize=1330 outsize=240 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (18): Can't find include file UnityGC.cginc
+  insize=1332 outsize=242 ok=0
+Cmd: preprocess
+  insize=1333 outsize=242 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (37): redefinition of '_LightColor0'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1390 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1249 outsize=242 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (45): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1306 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1281 outsize=242 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (46): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1338 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1281 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (50): invalid subscript 'rgb'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1338 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1281 outsize=241 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (50): invalid subscript 'rgb'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1338 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1282 outsize=242 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1339 outsize=3930 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1339 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1302 outsize=262 ok=1
+Cmd: preprocess
+  insize=1280 outsize=335 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1241 outsize=3327 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1241 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=541 outsize=4871 kw=SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=541 outsize=0 kw=SHADOWS_DEPTH pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1007 outsize=1288 ok=1
+Cmd: preprocess
+  insize=2484 outsize=514 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (45): undeclared identifier 'floatf'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1267 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=2484 outsize=514 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1267 outsize=3945 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1267 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (92): 'mul': no matching 2 parameter intrinsic function; Possible intrinsic functions are: mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (92): undeclared identifier 'modelMatrixInverse'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1305 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=2484 outsize=513 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1305 outsize=3930 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1305 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=3129 outsize=617 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1556 outsize=3930 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1556 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1558 outsize=3930 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1558 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=2484 outsize=513 ok=1
+Cmd: preprocess
+  insize=2484 outsize=514 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1305 outsize=3930 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1305 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=2481 outsize=514 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1264 outsize=3930 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1264 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=8831 outsize=1200 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (52): syntax error: unexpected token 'float3'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (58): undeclared identifier 'lightDirection'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2539 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=9886 outsize=2255 ok=0
+Cmd: preprocess
+  insize=11755 outsize=1524 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (89): undeclared identifier 'diffuseReflection'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2540 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11756 outsize=1524 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2541 outsize=5131 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2541 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=3037 outsize=5225 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=3037 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (240): undeclared identifier '_WorldSpaceLightPos'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2967 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11755 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (240): undeclared identifier '_WorldSpaceLightPos'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2967 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11756 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (242): undeclared identifier 'attentuation'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2968 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11755 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (257): undeclared identifier 'attentuation'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2967 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11754 outsize=1523 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2966 outsize=5392 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2966 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (328): 'mul': no matching 2 parameter intrinsic function; Possible intrinsic functions are: mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (328): undeclared identifier 'modelMatrixInverse'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2907 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11765 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (328): 'mul': no matching 2 parameter intrinsic function; Possible intrinsic functions are: mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (329): undeclared identifier 'modelMatrixInverse'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2918 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11776 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (328): 'mul': no matching 2 parameter intrinsic function; Possible intrinsic functions are: mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatK|halfK|doubleK|min10floatK|min16floatK|intK|uintK|min12intK|min16intK|min16uintK) mul(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, floatLxK|halfLxK|doubleLxK|min10floatLxK|min16floatLxK|intLxK|uintLxK|min12intLxK|min16intLxK|min16uintLxK) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM) mul(floatNxM|halfNxM|doubleNxM|min10floatNxM|min16floatNxM|intNxM|uintNxM|min12intNxM|min16intNxM|min16uintNxM, floatMxK|halfMxK|doubleMxK|min10floatMxK|min16floatMxK|intMxK|uintMxK|min12intMxK|min16intMxK|min16uintMxK)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (329): undeclared identifier 'modelMatrixInverse'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2929 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11754 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (330): undeclared identifier 'modelMatrix'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2907 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11754 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (332): syntax error: unexpected token 'float'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (336): undeclared identifier 'attenuation'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2907 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11755 outsize=1523 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (342): undeclared identifier 'modelMatrix'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2908 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=11755 outsize=1523 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2908 outsize=5180 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2908 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=1003 outsize=1284 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=3966 outsize=1691 ok=0
+Cmd: preprocess
+  insize=5224 outsize=657 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (46): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2574 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5224 outsize=657 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2574 outsize=8114 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2574 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (174): undeclared identifier 'LightColor0'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2598 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5225 outsize=657 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (179): undeclared identifier 'flaot4'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2599 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5225 outsize=657 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2599 outsize=7972 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2599 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=5782 outsize=738 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2774 outsize=5575 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2774 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2875 outsize=5445 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2875 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=5784 outsize=740 ok=1
+Cmd: preprocess
+  insize=1001 outsize=1282 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=4284 outsize=9862 kw=DIRECTIONAL SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=4284 outsize=0 kw=DIRECTIONAL SHADOWS_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1069 outsize=387 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=978 outsize=5668 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=978 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1014 outsize=1295 ok=1
+Cmd: preprocess
+  error: 1 plat 18 at (52): Both vertex and fragment programs must be present in a CGPROGRAM. Excluding it from compilation.
+  insize=1752 outsize=787 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=791 outsize=3156 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=791 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=959 outsize=3459 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=959 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  error: 2 plat 18 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=851 outsize=848 ok=0
+Cmd: preprocess
+  error: 2 plat 18 at (-1): No ENDCG tag found after CGPROGRAM tag
+  insize=4109 outsize=1385 ok=0
+Cmd: preprocess
+  insize=5867 outsize=725 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (68): undeclared identifier '_WorldSpaceLightPos'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=3025 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5868 outsize=725 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (85): invalid subscript 'rgb'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=3026 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5873 outsize=725 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (86): invalid subscript 'rgb'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=3031 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5878 outsize=726 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (86): invalid subscript 'rgb'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=3036 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5869 outsize=724 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (86): 'max': no matching 0 parameter intrinsic function; Possible intrinsic functions are: max(float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint, float|half|double|min10float|min16float|int|uint|min12int|min16int|min16uint)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (86): syntax error: unexpected token ';'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=3027 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5870 outsize=725 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=3028 outsize=8499 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=3028 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (167): 'tex2D': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2D(sampler2D, float2|half2|min10float2|min16float2) tex2D(sampler2D, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (167): invalid subscript 'xyz'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2724 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5869 outsize=726 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (167): 'tex2D': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2D(sampler2D, float2|half2|min10float2|min16float2) tex2D(sampler2D, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2, float2|half2|min10float2|min16float2)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (167): invalid subscript 'xy'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2723 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5870 outsize=725 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (172): unrecognized identifier 'direction'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (172): unrecognized identifier 'light'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=2724 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=5869 outsize=726 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=2723 outsize=8324 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=2723 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=5869 outsize=726 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=999 outsize=1280 ok=1
+Cmd: preprocess
+  insize=1061 outsize=380 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=978 outsize=5668 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=978 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: preprocess
+  insize=1063 outsize=382 ok=1
+Cmd: preprocess
+  insize=1067 outsize=386 ok=1
+Cmd: preprocess
+  insize=1069 outsize=388 ok=1
+Cmd: preprocess
+  insize=1069 outsize=388 ok=1
+Cmd: preprocess
+  insize=1068 outsize=387 ok=1
+Cmd: preprocess
+  insize=1067 outsize=386 ok=1
+Cmd: preprocess
+  insize=997 outsize=1278 ok=1
+Cmd: preprocess
+  insize=1788 outsize=415 ok=1
+Cmd: compileSnippet
+  error: 2 plat 15 at (49): 'dot': no matching 2 parameter intrinsic function; Possible intrinsic functions are: dot(floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM, floatM|halfM|doubleM|min10floatM|min16floatM|intM|uintM|min12intM|min16intM|min16uintM)\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  error: 2 plat 15 at (49): undeclared identifier 'lightingDirection'\nCompiling Vertex program
+Platform defines: UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED
+  api=15 type=0 insize=1672 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=0
+Cmd: preprocess
+  insize=1785 outsize=412 ok=1
+Cmd: compileSnippet
+  api=15 type=0 insize=1669 outsize=4201 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
+Cmd: compileSnippet
+  api=15 type=1 insize=1669 outsize=0 kw= pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING SHADER_API_DESKTOP UNITY_TEXTURE_ALPHASPLIT_ALLOWED ok=1
